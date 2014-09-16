@@ -10,7 +10,6 @@
 namespace Webit\DataSelection\Filter\Factory;
 
 use Webit\DataSelection\Filter\Factory\Exception\FilterClassNotFoundException;
-use Webit\DataSelection\Filter\Factory\Exception\InvalidClassNameException;
 use Webit\DataSelection\Filter\Factory\Exception\InvalidFilterClassException;
 use Webit\DataSelection\Filter\Factory\Exception\UnregisteredFilterTypeException;
 use Webit\DataSelection\Filter\Model\FilterInterface;
